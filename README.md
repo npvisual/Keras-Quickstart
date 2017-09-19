@@ -7,11 +7,11 @@
 The notebook is heavily influenced by original (?) work ([here](https://machinelearningmastery.com/handwritten-digit-recognition-using-convolutional-neural-networks-python-keras/) and [here](https://elitedatascience.com/keras-tutorial-deep-learning-in-python)) around the MNIST dataset and also by the [Keras documentation](https://keras.io).
 
 ## Getting started
-If you already have [Jupyter](https://jupyter.org) installed, then you simply need to download the [Getting Started notebook](https://nbviewer.jupyter.org/github/npvisual/Keras-Quickstart/blob/master/Getting%20Started%20with%20Keras.ipynb) and run it.
+If you already have [Jupyter](https://jupyter.org) installed, then you simply need to download the [Getting Started notebook](Getting%20Started%20with%20Keras.ipynb) and run it.
 
 ## Notebook Viewer
 
-If you have not installed [Jupyter](https://jupyter.org) (doh ! what are you waiting for ?), you can still view the notebook online.
+If you have not installed [Jupyter](https://jupyter.org) (doh ! what are you waiting for ?), you can still view the [notebook online](https://nbviewer.jupyter.org/github/npvisual/Keras-Quickstart/blob/master/Getting%20Started%20with%20Keras.ipynb).
 
 ## License
 
