@@ -15,7 +15,7 @@ If you have not installed [Jupyter](https://jupyter.org) (doh ! what are you wai
 
 ## License
 
-As far as my comments and not-so-original code, feel free to use [at will](COPYING.WTFPL). If you want to add attribution, it's always appreciated.
+As far as my comments and not-so-original code, feel free to use [at will](COPYING.WTFPL). If you want to add attributions, it's always appreciated.
 
 For the original content, please see below for copyrights and attributions :
 
