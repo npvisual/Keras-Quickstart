@@ -11,9 +11,11 @@ However the real catalyst was the first part of [Lesson 2](https://www.youtube.c
 ## Getting started
 If you already have [Jupyter](https://jupyter.org) installed, then you simply need to download the [Getting Started notebook](Getting%20Started%20with%20Keras.ipynb) and run it.
 
-## Notebook Viewer
+## Notebook Viewer... or just GitHub !
 
 If you have not installed [Jupyter](https://jupyter.org) (doh ! what are you waiting for ?), you can still view the [notebook online](https://nbviewer.jupyter.org/github/npvisual/Keras-Quickstart/blob/master/Getting%20Started%20with%20Keras.ipynb).
+
+I also recently discovered that you can [directly view](https://help.github.com/articles/working-with-jupyter-notebook-files-on-github/) the [notebook](Getting%20Started%20with%20Keras.ipynb) in GitHub. Awesome !!!
 
 ## License
 
