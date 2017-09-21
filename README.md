@@ -6,6 +6,8 @@
 
 The notebook is heavily influenced by original (?) work ([here](https://machinelearningmastery.com/handwritten-digit-recognition-using-convolutional-neural-networks-python-keras/) and [here](https://elitedatascience.com/keras-tutorial-deep-learning-in-python)) around the MNIST dataset and also by the [Keras documentation](https://keras.io).
 
+However the real catalyst was the first part of [Lesson 2](https://www.youtube.com/watch?v=e3aM6XTekJc&t=1034s) of the [fast.ai class](http://course.fast.ai) (Dogs & cats redux). I had so many questions after lessons 1 & 2 that I just couldn't continue without digging a lot deeper into Keras and the models used during the class.
+
 ## Getting started
 If you already have [Jupyter](https://jupyter.org) installed, then you simply need to download the [Getting Started notebook](Getting%20Started%20with%20Keras.ipynb) and run it.
 
